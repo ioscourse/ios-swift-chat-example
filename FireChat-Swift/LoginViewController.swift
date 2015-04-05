@@ -18,8 +18,8 @@ class LoginViewController : UIViewController, UIActionSheetDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        ref = Firebase(url:"https://swift-chat.firebaseio.com")
-        authHelper = TwitterAuthHelper(firebaseRef: ref, twitterAppId: "S40X72gZw8JSoDVjWtwidpk2r")
+        ref = Firebase(url:"https://konkolchatapp.firebaseio.com/")
+        authHelper = TwitterAuthHelper(firebaseRef: ref, twitterAppId: "JTlJo02O8VRPaYtPAVm7aFGJg")
     }
     
     override func viewWillAppear(animated: Bool) {
