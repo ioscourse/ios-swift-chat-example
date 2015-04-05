@@ -1,7 +1,8 @@
 //
-// Created by Katherine Fang on 9/9/14.
-// Copyright (c) 2014 Firebase. All rights reserved.
+//  MessagesViewController.swift
+//  FireChat-Swift
 //
+//  Created by Chuck Konkol 4/1/2015.
 
 #import <Social/Social.h>
 #import "TwitterAuthHelper.h"

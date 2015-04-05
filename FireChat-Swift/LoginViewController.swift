@@ -1,10 +1,8 @@
 //
-//  LoginViewController.swift
+//  MessagesViewController.swift
 //  FireChat-Swift
 //
-//  Created by David on 8/15/14.
-//  Copyright (c) 2014 Firebase. All rights reserved.
-//
+//  Created by Chuck Konkol 4/1/2015.
 
 import Foundation
 
